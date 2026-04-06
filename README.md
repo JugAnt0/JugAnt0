@@ -48,7 +48,8 @@ How can we make high-quality education accessible to anyone, anywhere?
 ---
 
 
-## 📫 Connect With Me
+## Connect With Me
 
 [Email](canaletwomeyantonio@gmail.com)
+
 [LinkedIn](https://www.linkedin.com/in/antonio-canale-twomey-a14271371/)
