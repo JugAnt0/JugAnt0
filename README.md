@@ -26,7 +26,7 @@ NumPy, Pandas, data preprocessing, structured & unstructured data, embeddings & 
 
 ---
 
-## 🔥 Featured Projects
+## Featured Projects
 
 ### 20 Games in Python
 A collection of terminal-based games designed to explore logic, user interaction, and program structure.
